@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartnews-feed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: C:/Users/user/Documents/NetBeansProjects/wp-smartnews/"
+"wp-content/plugins/feed-smartnews\n"
+
+msgid "Smartnews Feed"
+msgstr "スマートニュース フィード"
+
+msgid "Please write your own copyright and Logo URL for your Smartnews feed."
+msgstr ""
+"スマートニュースのフィードに表示するコピーライトとロゴのURLを記入してくださ"
+"い。"
+
+msgid "Copyright"
+msgstr "コピーライト"
+
+msgid "Logo URL"
+msgstr "ロゴ画像URL"
+
+msgid "Update frequency"
+msgstr "更新間隔"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "hourly"
+msgstr "時間"
+
+msgid "daily"
+msgstr "日"
+
+msgid "weekly"
+msgstr "週"
+
+msgid "monthly"
+msgstr "月"
+
+msgid "yearly"
+msgstr "年"
+
+msgid "Suggested periods: 1-15 minutes."
+msgstr "推奨間隔：1-15分"
